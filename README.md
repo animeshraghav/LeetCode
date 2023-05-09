@@ -1,2 +1,3 @@
 # LeetCode
-Solution of Problems that are solved in LeetCode by me.
+Solved problems of LeetCode by me.
+# Maintain streak and continuous coding
